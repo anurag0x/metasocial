@@ -18,20 +18,20 @@ Installation
 
 bash
 Copy code
-# Clone the repository
+ Clone the repository
 git clone https://github.com/anurag0x/metasocial
 
-# Navigate to the project directory
+ Navigate to the project directory
 cd your-project
 
-# Install dependencies
+ Install dependencies
 npm install
 Usage
 It is used to find country where you can use your currency.
 
 bash
 Copy code
-# Run the application
+ Run the application
 npm start
 Dependencies
 List the main dependencies your project relies on. Include the version numbers if necessary.
