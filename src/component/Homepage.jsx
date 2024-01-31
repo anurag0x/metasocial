@@ -29,7 +29,7 @@ const Homepage = () => {
   }, [value]);
   return <>
   <Container>
-    <h1 className='head' >MetaSocial</h1>
+    <h1 className='head' >Metta Social</h1>
     <h2 className='second'>Enter currency to know the eligible countries..</h2>
      <div className='inpcont'>
       <span className='icon'> <BsSearch /></span>
